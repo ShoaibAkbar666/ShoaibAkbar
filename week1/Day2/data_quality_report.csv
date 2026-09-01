@@ -1,0 +1,10 @@
+Stage_Before,Table,Rows_Before,Null Count_Before,Null %_Before,Duplicate Rows_Before,Stage_After,Rows_After,Null Count_After,Null %_After,Duplicate Rows_After
+Before,product_category,71,0,0.0,0,After,71,0,0.0,0
+Before,sellers,3095,0,0.0,0,After,3095,0,0.0,0
+Before,products,32951,2448,0.83,0,After,32951,0,0.0,0
+Before,Orders,99441,4908,0.62,0,After,99441,4908,0.62,0
+Before,order_reviews,99224,145903,21.01,0,After,99224,58247,8.39,0
+Before,Order_payments,103886,0,0.0,0,After,103886,0,0.0,0
+Before,geolocation,1000163,0,0.0,261831,After,738332,0,0.0,0
+Before,OrderItems,112650,0,0.0,0,After,112650,0,0.0,0
+Before,Customers,99441,0,0.0,0,After,99441,0,0.0,0
